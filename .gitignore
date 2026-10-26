@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+
+#Cache python
+*.pyc
+
+#outros
+.vscode/
+
+#logs
+*.log
+
+#Organizando novo arquivos
